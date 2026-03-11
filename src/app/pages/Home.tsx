@@ -1,6 +1,6 @@
 import { Link } from 'react-router';
 import { motion } from 'motion/react';
-import { Brain, Gamepad2, BookAbc, Baby, Sparkles, Lightbulb, Trophy } from 'lucide-react';
+import { Brain, Gamepad2, BookOpen, Baby, Sparkles, Lightbulb, Trophy } from 'lucide-react';
 import { ImageWithFallback } from '../components/figma/ImageWithFallback';
 
 export function Home() {
