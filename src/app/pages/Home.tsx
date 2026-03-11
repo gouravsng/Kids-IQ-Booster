@@ -18,7 +18,7 @@ export function Home() {
       color: '#90EE90',
     },
     {
-      icon: BookAbc,
+      icon: BookOpen,
       title: 'Letter and Number Skills',
       description: 'Learn alphabets and numbers interactively.',
       color: '#FFD700',
